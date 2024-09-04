@@ -1,6 +1,7 @@
 [build]
 command = 'hugo'
 publish = 'public'
+baseURL = "https://xingyu-chen.netlify.app/"
 
 [build.environment]
 HUGO_VERSION = '0.134.0'
