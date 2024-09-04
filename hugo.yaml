@@ -1,4 +1,4 @@
-baseurl: "https://example.org/"  # please update this to your actual URL
+baseurl: "https://xingyu-chen.netlify.app/"  # please update this to your actual URL
 languageCode: "en-us"
 title: "A minimal Hugo website"
 theme: "hugo-xmin"
@@ -30,7 +30,7 @@ menu:
 
 params:
   description: "A website built through Hugo and blogdown."
-  footer: "&copy; [Yihui Xie](https://yihui.org) 2017 -- {Year} | [Github](https://github.com/yihui) | [Twitter](https://twitter.com/xieyihui)"
+  footer: "&copy; [Xingyu Chen] 2024 -- {Year} | [Github](https://github.com/cxy0714) "
 
 markup:
   highlight:
